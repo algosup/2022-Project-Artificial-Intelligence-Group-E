@@ -11,6 +11,12 @@
   - [Configuration](#configuration)
   - [Non Functional Requirements](#non-functional-requirements)
   - [Our Functional Specifications](#our-functional-specifications)
+    - [Bobis Alexandre](#bobis-alexandre)
+    - [Caton Clément](#caton-clément)
+    - [Leroy Victor](#leroy-victor)
+    - [Mida Nicolas](#mida-nicolas)
+    - [Namir Salaheddine](#namir-salaheddine)
+    - [Trouvé Théo](#trouvé-théo)
   - [Terminology](#terminology)
 </details>
 
@@ -50,37 +56,37 @@ The goal of the project is to build a device that can listen to conversations (i
 - 
 ## Our Functional Specifications
 
-Bobis Alexandre
+### Bobis Alexandre
 
 ![Bobis Alexandre](Files/Functional_Specifications_Bobis.png)
 
 <hr>
 
-Caton Clément
+### Caton Clément
 
 ![Caton Clément](Files/Functional_Specifications_Caton.png)
 
 <hr>
 
-Leroy Victor
+### Leroy Victor
 
 ![Leroy Victor](Files/Functional_Specifications_Leroy.png)
 
 <hr>
 
-Mida Nicolas
+### Mida Nicolas
 
 ![Mida Nicolas](Files/Functional_Specifications_Mida.png)
 
 <hr>
 
-Namir Salaheddine
+### Namir Salaheddine
 
 ![Namir Salaheddine](Files/Functional_Specifications_Namir.png)
 
 <hr>
 
-Trouvé Théo
+### Trouvé Théo
 
 ![Trouvé Théo](Files/Functional_Specifications_Trouvé.png)
 

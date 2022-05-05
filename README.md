@@ -6,4 +6,4 @@ Project realized with [Python](https://en.wikipedia.org/wiki/Python_(programming
 
 We use [Google Colab](https://colab.research.google.com/?utm_source=scs-index), a free online cloud based Jupyter notebook environment that allows us to train our machine learning and deep learning models. Link to our [Google Colab](https://colab.research.google.com/drive/1AGPS3GyS9HJcMQ5R2TGQSomvVcMiNvNe?usp=sharing) notebook.
 
-Management with [Trello](https://trello.com/b/qxVEFxP7/ai-algosup-language)
+Management with [Trello](https://trello.com/b/qxVEFxP7/ai-algosup-language).
