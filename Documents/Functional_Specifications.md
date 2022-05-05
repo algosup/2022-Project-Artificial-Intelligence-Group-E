@@ -47,22 +47,22 @@ The goal of the project is to build a device that can listen to conversations (i
 
 Bobis Alexandre
 
-![Bobis Alexandre](Documents/Functional_Specifications_Bobis.pdf)
+![Bobis Alexandre](Documents/Files/Functional_Specifications_Bobis.pdf)
 
 Caton Clément & Leroy Victor
 
-![Caton Clément & Leroy Victor](Documents/Functional_Specifications_Leroy.pdf)
+![Caton Clément & Leroy Victor](Documents/Files/Functional_Specifications_Leroy.pdf)
 
 Mida Nicolas
 
-![Mida Nicolas](Documents/Functional_Specifications_Mida.pdf)
+![Mida Nicolas](Documents/Files/Functional_Specifications_Mida.pdf)
 
 Namir Salaheddine
 
-![Namir Salaheddine](Documents/Functional_Specifications_Namir.pdf)
+![Namir Salaheddine](Documents/Files/Functional_Specifications_Namir.pdf)
 
 Trouvé Théo
 
-![Trouvé Théo](Documents/Functional_Specifications_Trouvé.pdf)
+![Trouvé Théo](Documents/Files/Functional_Specifications_Trouvé.pdf)
 
 ## Terminology
