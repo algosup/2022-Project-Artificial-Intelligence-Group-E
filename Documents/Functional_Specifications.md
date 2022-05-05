@@ -23,6 +23,8 @@
 - Users
 
 ## Approvals
+
+
 ## Targets Audience
 
 There is no official target audience. Unofficially, the target audience is all students of the Algosup school. The other target audience is everyone who wants to learn English, or French too.
@@ -38,6 +40,9 @@ The goal of the project is to build a device that can listen to conversations (i
 - Privacy and confidentiality of the data, how can we be sure that the conversations are not recorded and/or used for something else than detecting languages.
 
 ## Requirements
+
+- Speaking in english or in french
+
 ## Configuration
 ## Non Functional Requirements
 
@@ -47,22 +52,36 @@ The goal of the project is to build a device that can listen to conversations (i
 
 Bobis Alexandre
 
-![Bobis Alexandre](Documents/Files/Functional_Specifications_Bobis.pdf)
+![Bobis Alexandre](Files/Functional_Specifications_Bobis.png)
 
-Caton Clément & Leroy Victor
+<hr>
 
-![Caton Clément & Leroy Victor](Documents/Files/Functional_Specifications_Leroy.pdf)
+Caton Clément
+
+![Caton Clément](Files/Functional_Specifications_Caton.png)
+
+<hr>
+
+Leroy Victor
+
+![Leroy Victor](Files/Functional_Specifications_Leroy.png)
+
+<hr>
 
 Mida Nicolas
 
-![Mida Nicolas](Documents/Files/Functional_Specifications_Mida.pdf)
+![Mida Nicolas](Files/Functional_Specifications_Mida.png)
+
+<hr>
 
 Namir Salaheddine
 
-![Namir Salaheddine](Documents/Files/Functional_Specifications_Namir.pdf)
+![Namir Salaheddine](Files/Functional_Specifications_Namir.png)
+
+<hr>
 
 Trouvé Théo
 
-![Trouvé Théo](Documents/Files/Functional_Specifications_Trouvé.pdf)
+![Trouvé Théo](Files/Functional_Specifications_Trouvé.png)
 
 ## Terminology
