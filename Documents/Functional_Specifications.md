@@ -64,7 +64,8 @@ The goal of the project is to build a device that can listen to conversations (i
 
 ### Caton Clément
 
-![Caton Clément](Files/Functional_Specifications_Caton.png)
+![Caton Clément](Files/Functional_Specifications_Caton-1.png)
+![Caton Clément](Files/Functional_Specifications_Caton-2.png)
 
 <hr>
 
@@ -88,6 +89,6 @@ The goal of the project is to build a device that can listen to conversations (i
 
 ### Trouvé Théo
 
-![Trouvé Théo](Files/Functional_Specifications_Trouvé.png)
+![Trouvé Théo](Files/Functional_Specifications_Trouve.png)
 
 ## Terminology
