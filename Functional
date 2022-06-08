@@ -1,1 +1,31 @@
+1 / Project Description
 
+The goal of the project is to do a device that can recognize the language of people speaking around it , 
+speaking in English or in French. We can also imagine something like a led which becomes red or green 
+when the device hears the user speaks in a language and makes the difference between the both.
+
+2 / Data Ressources
+
+On the internet there are a lot of different ways to collect data , by videos but also just by mp3 files 
+like podcasts or interviews . The difference between them it’s that the language can be specific to a domain 
+when they speak about something so we need to see what data we want.
+
+-Podcast
+
+We could collect data from podcasts , generally the podcastor speak clearly and use expressions , so it 
+can be a good idea to take data from that.
+
+-Dataset Search
+
+It’s something done by google to search data , audio ,text. There is a lot of information on it ,
+and it can be really useful if we are looking for something specific.
+
+-Audio Book
+
+Audio books can be a good thing because they generally use words that are not generally used , 
+so it can bring data we will find nowhere.
+
+3 / Privacy
+
+The first idea to make something private is to not connect the device to a network. 
+It’s the best answer to make something secure.
