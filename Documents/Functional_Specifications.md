@@ -58,37 +58,49 @@ The goal of the project is to build a device that can listen to conversations (i
 
 ### Bobis Alexandre
 <details>
+  
 ![Bobis Alexandre](Files/Functional_Specifications_Bobis.png)
+  
 </details>
 <hr>
 
 ### Caton Clément
 <details>
+  
 ![Caton Clément](Files/Functional_Specifications_Caton-1.png)
 ![Caton Clément](Files/Functional_Specifications_Caton-2.png)
+  
 </details>
 <hr>
 
 ### Leroy Victor
 <details>
+  
 ![Leroy Victor](Files/Functional_Specifications_Leroy.png)
+  
 </details>
 <hr>
 
 ### Mida Nicolas
 <details>
+  
 ![Mida Nicolas](Files/Functional_Specifications_Mida.png)
+  
 </details>
 <hr>
 
 ### Namir Salaheddine
 <details>
+  
 ![Namir Salaheddine](Files/Functional_Specifications_Namir.png)
+  
 </details>
 <hr>
 
 ### Trouvé Théo
 <details>
+  
 ![Trouvé Théo](Files/Functional_Specifications_Trouve.png)
+  
 </details>
 ## Terminology
