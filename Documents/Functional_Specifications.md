@@ -103,4 +103,5 @@ The goal of the project is to build a device that can listen to conversations (i
 ![Trouvé Théo](Files/Functional_Specifications_Trouve.png)
   
 </details>
+
 ## Terminology
