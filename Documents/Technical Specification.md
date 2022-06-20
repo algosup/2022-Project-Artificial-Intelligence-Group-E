@@ -18,7 +18,7 @@
 
   - [Jackie Boscher](https://github.com/ia35)
 
-### What/When/Why
+#### What/When/Why
 
 This project need to be done in 9 weeks , the objective is to do a device which can detect the language that people speak around. In the case of Algosup we are focus on the French and the English , to avoid the students who are speaking in French in class 
 
