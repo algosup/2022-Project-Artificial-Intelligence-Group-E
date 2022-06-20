@@ -40,6 +40,11 @@ We cancelled the idea of using an Arduino device , due to a lack of storage on t
 
 ## **Measuring Impact**
 ## **Security , Privacy , Risks**
+
+The first risk is that the accuracy of model are too low and the device will not work well.
+
+For the privacy the audio file will be transform to an image , we store the image just the time that she'll be crush by the next one.
+
 ## **Other Considerations**
 ## **Milestones**
 ## **Open Questions**
