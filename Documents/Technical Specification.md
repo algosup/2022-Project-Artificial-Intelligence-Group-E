@@ -32,7 +32,7 @@ The goal of this project is to create a device , which is able to detect if the 
 
 ## **Non-Goals**
 
-We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device which was not enough for us to be able to do an efficient model with the free space on it.
+We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device, which was not enough for us to be able to do an efficient model with the free space on it.
 
 ## **Plan**
 
@@ -41,9 +41,9 @@ We cancelled the idea of using an Arduino device , due to a lack of storage on t
 ## **Measuring Impact**
 ## **Security , Privacy , Risks**
 
-The first risk is that the accuracy of model are too low and the device will not work well.
+The first risk, is that the accuracy of the model will be too low and the device won't work well.
 
-For the privacy the audio file will be transform to an image , we store the image just the time that she'll be crush by the next one.
+For the privacy, the audio file will be transformed into an image , we store the image while it is replaced by the next one.
 
 ## **Other Considerations**
 ## **Milestones**
