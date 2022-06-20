@@ -1,70 +1,76 @@
+# Functional Specifications
+
 <details>
 <summary>Table of contents</summary>
 
-- [Overview](#overview)
-  - [Stakeholders](#stakeholders)
-  - [Approvals](#approvals)
-  - [Targets Audience](#targets-audience)
-  - [Project Scope](#project-scope)
-  - [Risks and assumptions](#risks-and-assumptions)
-  - [Requirements](#requirements)
-  - [Configuration](#configuration)
-  - [Non Functional Requirements](#non-functional-requirements)
-  - [Our Functional Specifications](#our-functional-specifications)
-    - [Bobis Alexandre](#bobis-alexandre)
-    - [Caton Clément](#caton-clément)
-    - [Leroy Victor](#leroy-victor)
-    - [Mida Nicolas](#mida-nicolas)
-    - [Namir Salaheddine](#namir-salaheddine)
-    - [Trouvé Théo](#trouvé-théo)
-  - [Terminology](#terminology)
+- [Functional Specifications](#functional-specifications)
+  - [Overview](#overview)
+    - [Stakeholders](#stakeholders)
+    - [Approvals](#approvals)
+    - [Targets Audience](#targets-audience)
+    - [Project Scope](#project-scope)
+    - [Risks and assumptions](#risks-and-assumptions)
+    - [Requirements](#requirements)
+    - [Configuration](#configuration)
+    - [Non Functional Requirements](#non-functional-requirements)
+    - [Our Functional Specifications](#our-functional-specifications)
+      - [Bobis Alexandre](#bobis-alexandre)
+      - [Caton Clément](#caton-clément)
+      - [Leroy Victor](#leroy-victor)
+      - [Mida Nicolas](#mida-nicolas)
+      - [Namir Salaheddine](#namir-salaheddine)
+      - [Trouvé Théo](#trouvé-théo)
+    - [Privacy & Security](#privacy--security)
+    - [Terminology](#terminology)
 </details>
 
-# Overview
+## Overview
 
-## Stakeholders
+### Stakeholders
 
 - JEANNIN Franck
 - BOSCHER Jackie
 - Users
 
-## Approvals
+### Approvals
 
 
-## Targets Audience
+### Targets Audience
 
 There is no official target audience. Unofficially, the target audience is all students of the Algosup school. The other target audience is everyone who wants to learn English, or French too.
 
-## Project Scope
+### Project Scope
 
 The goal of the project is to build a device that can listen to conversations (in project rooms for instance) and detect when English is spoken or when French is spoken. The device could emit a sound or display different colors based on the language.
 
-## Risks and assumptions
+### Risks and assumptions
 
 - We can expect poor voice recognition from the device.
 - How to collect/produce voice sample with sufficient quality and quantity for the learning process.
 - Privacy and confidentiality of the data, how can we be sure that the conversations are not recorded and/or used for something else than detecting languages.
 
-## Requirements
+### Requirements
 
 - Speaking in english or in french
 
-## Configuration
-## Non Functional Requirements
+### Configuration
+
+### Non Functional Requirements
 
 - Other languages should be detected.
 - 
-## Our Functional Specifications
+### Our Functional Specifications
 
-### Bobis Alexandre
+#### Bobis Alexandre
 <details>
-  
+
 ![Bobis Alexandre](Files/Functional_Specifications_Bobis.png)
-  
+
 </details>
+
 <hr>
 
-### Caton Clément
+#### Caton Clément
 <details>
   
 ![Caton Clément](Files/Functional_Specifications_Caton-1.png)
@@ -73,7 +79,7 @@ The goal of the project is to build a device that can listen to conversations (i
 </details>
 <hr>
 
-### Leroy Victor
+#### Leroy Victor
 <details>
   
 ![Leroy Victor](Files/Functional_Specifications_Leroy.png)
@@ -81,7 +87,7 @@ The goal of the project is to build a device that can listen to conversations (i
 </details>
 <hr>
 
-### Mida Nicolas
+#### Mida Nicolas
 <details>
   
 ![Mida Nicolas](Files/Functional_Specifications_Mida.png)
@@ -89,7 +95,7 @@ The goal of the project is to build a device that can listen to conversations (i
 </details>
 <hr>
 
-### Namir Salaheddine
+#### Namir Salaheddine
 <details>
   
 ![Namir Salaheddine](Files/Functional_Specifications_Namir.png)
@@ -97,7 +103,7 @@ The goal of the project is to build a device that can listen to conversations (i
 </details>
 <hr>
 
-### Trouvé Théo
+#### Trouvé Théo
 <details>
   
 ![Trouvé Théo](Files/Functional_Specifications_Trouve.png)
@@ -105,9 +111,8 @@ The goal of the project is to build a device that can listen to conversations (i
 </details>
 
 
-## Privacy & Security
+### Privacy & Security
 
 Regarding the privacy, only one data sample will be stored in order to analyze it, and will be instantly deleted when we get the next sample, and the last sample will be erased when the device will be booted. The device might be connected to Internet, in order to have a remote interface. 
 
-## Terminology
-
+### Terminology
