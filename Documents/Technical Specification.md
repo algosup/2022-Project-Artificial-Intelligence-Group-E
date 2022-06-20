@@ -20,19 +20,19 @@
 
 #### What/When/Why
 
-This project need to be done in 9 weeks , the objective is to do a device which can detect the language that people speak around. In the case of Algosup we are focus on the French and the English , to avoid the students who are speaking in French in class 
+This project needs to be done in 9 weeks , the objective is to create a device that can detect the language people are speaking. In Algosups case, we are mainly focused on French and English, to avoid students who are speaking French during class or project time.
 
 ## **Background**
 
-One of the principal objective of Algosup is to make students speaking English all the time , more you speak more you'll learn. The idea is to make them speaking English during their breaks , the lunch time and also the more import during the project time. So the idea came up  , How to make them speaking English during their project time without come in their rooms each hour.
+One of the main objective of Algosup is to make students speaking English while they are in class, the more you speak the more you will learn. The idea is to make students speak English during their breaks , the lunch time and also the more important during the project time. So the idea came up  , How to make them speak only in English during their project time without having to come in their room each hour.
 
 ## **Goals**
 
-The goal of this project is to make a device , which is able to detect if the people around are speaking in French or in English and be able to avert the user around if they speak in the wrong language that is wanted.
+The goal of this project is to create a device , which is able to detect if the people around are speaking French or English, and be able to warn the user around if they speak in the wrong language.
 
 ## **Non-Goals**
 
-We forbidden about the idea of using an Arduino device , by fault of the space usable on the Arduino device which is not enough for us to be able to do an efficient model with the space able on it.
+We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device which was not enough for us to be able to do an efficient model with the free space on it.
 
 ## **Plan**
 
