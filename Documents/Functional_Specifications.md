@@ -104,4 +104,10 @@ The goal of the project is to build a device that can listen to conversations (i
   
 </details>
 
+
+## Privacy & Security
+
+Regarding the privacy, only one data sample will be stored in order to analyze it, and will be instantly deleted when we get the next sample, and the last sample will be erased when the device will be booted. The device might be connected to Internet, in order to have a remote interface. 
+
 ## Terminology
+
