@@ -49,7 +49,7 @@ The goal of this project is to create a device, which is able to detect if the p
 
 ### Non-Goals
 
-- We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device, which was not enough for us to be able to do an efficient model with the free space on it.
+We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device, which was not enough for us to be able to do an efficient model with the free space on it.
 
 ### Plan
  - Week 1
