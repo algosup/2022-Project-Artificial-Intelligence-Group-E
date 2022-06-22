@@ -52,6 +52,29 @@ The goal of this project is to create a device, which is able to detect if the p
 We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device, which was not enough for us to be able to do an efficient model with the free space on it.
 
 ### Plan
+ - Week 1
+ 
+During the first week , the objectives will be to do the documents and find information about IA and how we'll succed in this project
+
+ - Weeks 2 and 3
+
+After , we'll take 2 weeks to find a databases that we can use and also find the best format that we needed.
+
+
+ - Weeks 4 ,  5 and  6
+
+For the weeks 4 , 5 and 6 , we'll look for the best solutions to process the data , what kind of data we'll use to train the data and 
+which one was the best for our utiliti
+
+ - Weeks 7 and 8
+
+During the weeks 7 and 8 , we'll to the time to find the best model and also to setup the device to be able to use the model
+and detect the voice.
+
+ - Week 9
+
+The last week we'll take the time to prepare the presentation and depend of how the project will be but maybe 
+change some things that don't work.
 
 ### Measuring Impact
 
