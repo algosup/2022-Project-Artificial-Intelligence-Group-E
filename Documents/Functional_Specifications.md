@@ -6,13 +6,13 @@
 - [Functional Specifications](#functional-specifications)
   - [Overview](#overview)
     - [Stakeholders](#stakeholders)
-    - [Approvals](#approvals)
     - [Targets Audience](#targets-audience)
     - [Project Scope](#project-scope)
     - [Risks and assumptions](#risks-and-assumptions)
     - [Requirements](#requirements)
     - [Configuration](#configuration)
     - [Non Functional Requirements](#non-functional-requirements)
+    - [Privacy & Security](#privacy--security)
     - [Our Functional Specifications](#our-functional-specifications)
       - [Bobis Alexandre](#bobis-alexandre)
       - [Caton Clément](#caton-clément)
@@ -20,7 +20,6 @@
       - [Mida Nicolas](#mida-nicolas)
       - [Namir Salaheddine](#namir-salaheddine)
       - [Trouvé Théo](#trouvé-théo)
-    - [Privacy & Security](#privacy--security)
     - [Terminology](#terminology)
 </details>
 
@@ -31,9 +30,6 @@
 - JEANNIN Franck
 - BOSCHER Jackie
 - Users
-
-### Approvals
-
 
 ### Targets Audience
 
@@ -55,16 +51,16 @@ The goal of the project is to build a device that can listen to conversations (i
 
 ### Configuration
 
+- You need a nanocomputer[^1] like 'Raspberry PI' or 'Arduino'
+
 ### Non Functional Requirements
 
 - Other languages should be detected.
-
+- Calculate the percentage of languages spoken
 
 ### Privacy & Security
 
-Regarding the privacy, only one data sample will be stored in order to analyze it, and will be instantly deleted when we get the next sample, and the last sample will be erased when the device will be booted. The device might be connected to Internet, in order to have a remote interface. 
-
-### Terminology
+Regarding the privacy, only one data sample will be stored in order to analyze it, and will be instantly deleted when we get the next sample, and the last sample will be erased when the device will be booted. The device might be connected to Internet, in order to have a remote interface.
 
 ### Our Functional Specifications
 
@@ -117,4 +113,5 @@ Regarding the privacy, only one data sample will be stored in order to analyze i
   
 </details>
 
-
+### Terminology
+[^1]: The term nanocomputer is increasingly used to refer to general computing devices of size comparable to a credit card.

@@ -45,44 +45,41 @@ One of the main objective of Algosup is to make students speaking English while 
 
 ### Goals
 
-The goal of this project is to create a device, which is able to detect if the people around are speaking French or English, and be able to warn the user around if they speak in the wrong language.
+The goal of this project is to create a device, which is able to detect if the people around are speaking French or English, and be able to warn the user around if they speak in the wrong language. In our case, we need to speak only in English
 
 ### Non-Goals
 
-We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device, which was not enough for us to be able to do an efficient model with the free space on it.
+- We cancelled the idea of using an Arduino device , due to a lack of storage on the Arduino device, which was not enough for us to be able to do an efficient model with the free space on it.
 
 ### Plan
  - Week 1
- 
-During the first week , the objectives will be to do the documents and find information about IA and how we'll succed in this project
+
+During the first week, our objectives will be to write the documents, find information about artificial intelligence and how we will succeed in this project.
 
  - Weeks 2 and 3
 
-After , we'll take 2 weeks to find a databases that we can use and also find the best format that we needed.
+Then, we will take 2 weeks to find databases that we can use and also find the best format we will need.
 
+ - Weeks 4, 5 and 6
 
- - Weeks 4 ,  5 and  6
-
-For the weeks 4 , 5 and 6 , we'll look for the best solutions to process the data , what kind of data we'll use to train the data and 
-which one was the best for our utiliti
+For weeks 4, 5 and 6, we will look for the best solutions to process the data, the type of data we will use to form future data and which will be the best for our utility.
 
  - Weeks 7 and 8
 
-During the weeks 7 and 8 , we'll to the time to find the best model and also to setup the device to be able to use the model
-and detect the voice.
+During weeks 7 and 8, we will be at the point where we will have to find the best possible model and also configure the device to be able to use the model and thus detect the voice.
 
  - Week 9
 
-The last week we'll take the time to prepare the presentation and depend of how the project will be but maybe 
-change some things that don't work.
+Over the last week, we will take the time to prepare the presentation and, depending on the progress of the project, we may be able to change some things that do not work.
 
 ### Measuring Impact
 
 ### Security, Privacy, Risks
 
-The first risk, is that the accuracy of the model will be too low and the device won't work well.
+- The first risk, is that the accuracy of the model will be too low and the device won't work well.
+- The second risk is a low memory capacity of the device. That's why we use Raspberry PI.
 
-For the privacy, the audio file will be transformed into an image, we store the image while it is replaced by the next one.
+- For the privacy, the audio file will be transformed into an image, we store the image while it is replaced by the next one. The sentences will therefore only be stored for a short time.
 
 ### Other Considerations
 ### Milestones
