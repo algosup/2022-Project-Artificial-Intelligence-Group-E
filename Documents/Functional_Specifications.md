@@ -6,7 +6,7 @@
 - [Functional Specifications](#functional-specifications)
   - [Overview](#overview)
     - [Stakeholders](#stakeholders)
-    - [Targets Audience](#targets-audience)
+    - [Target Audience](#target-audience)
     - [Project Scope](#project-scope)
     - [Risks and assumptions](#risks-and-assumptions)
     - [Requirements](#requirements)
@@ -31,7 +31,7 @@
 - BOSCHER Jackie
 - Users
 
-### Targets Audience
+### Target Audience
 
 There is no official target audience. Unofficially, the target audience is all students of the Algosup school. The other target audience is everyone who wants to learn English, or French too.
 
@@ -42,21 +42,24 @@ The goal of the project is to build a device that can listen to conversations (i
 ### Risks and assumptions
 
 - We can expect poor voice recognition from the device.
-- How to collect/produce voice sample with sufficient quality and quantity for the learning process.
+- Collect/produce voice sample with sufficient quality and quantity for the learning process.
 - Privacy and confidentiality of the data, how can we be sure that the conversations are not recorded and/or used for something else than detecting languages.
 
 ### Requirements
 
-- Speaking in english or in french
+- Create a device that can listen to conversations.
+- Be able to detect when English is spoken or when French is spoken.
+
 
 ### Configuration
 
-- You need a nanocomputer[^1] like 'Raspberry PI' or 'Arduino'
+- You need a nanocomputer[^1] like 'Arduino[^2]' or 'Raspberry PI[^3]' (in our case, 'Raspberry PI').
+- A basic microphone. More quality it is, better are the results.
 
 ### Non Functional Requirements
 
 - Other languages should be detected.
-- Calculate the percentage of languages spoken
+- Calculate the percentage of languages spoken.
 
 ### Privacy & Security
 
@@ -114,4 +117,9 @@ Regarding the privacy, only one data sample will be stored in order to analyze i
 </details>
 
 ### Terminology
+
 [^1]: The term nanocomputer is increasingly used to refer to general computing devices of size comparable to a credit card.
+
+[^2]: Arduino is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
+
+[^3]: Raspberry Pi is a small single-board computers developed by the Raspberry Pi Foundation.
